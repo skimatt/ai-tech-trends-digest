@@ -18,11 +18,11 @@ Repositories gaining high momentum across the open-source developer ecosystem:
 
 | Repository | Stars | Language | Key Focus & Topics |
 | :--- | :---: | :---: | :--- |
-| **[nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)**<br>*An AI skill that provides design intelligence for building professional UI/UX across multiple p...* | ⭐ 117,644 | `Python` | `ai-skills` `antigravity` `claude` `claude-code` |
+| **[nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)**<br>*An AI skill that provides design intelligence for building professional UI/UX across multiple p...* | ⭐ 117,645 | `Python` | `ai-skills` `antigravity` `claude` `claude-code` |
 | **[ruvnet/RuView](https://github.com/ruvnet/RuView)**<br>*π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitorin...* | ⭐ 90,509 | `Rust` | `awesome` `claude` `densepose` `esp32` |
-| **[koala73/worldmonitor](https://github.com/koala73/worldmonitor)**<br>*Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, ...* | ⭐ 82,686 | `TypeScript` | `agent` `ai` `dashboard` `geopolitics` |
+| **[koala73/worldmonitor](https://github.com/koala73/worldmonitor)**<br>*Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, ...* | ⭐ 82,687 | `TypeScript` | `agent` `ai` `dashboard` `geopolitics` |
 | **[666ghj/MiroFish](https://github.com/666ghj/MiroFish)**<br>*A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物...* | ⭐ 71,122 | `Python` | `agent-memory` `financial-forecasting` `future-prediction` `knowledge-graph` |
-| **[ruvnet/ruflo](https://github.com/ruvnet/ruflo)**<br>*🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomou...* | ⭐ 68,091 | `TypeScript` | `agentic-ai` `agentic-framework` `agentic-workflow` `agents` |
+| **[ruvnet/ruflo](https://github.com/ruvnet/ruflo)**<br>*🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomou...* | ⭐ 68,092 | `TypeScript` | `agentic-ai` `agentic-framework` `agentic-workflow` `agents` |
 | **[Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)**<br>*Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful loc...* | ⭐ 64,841 | `JavaScript` | `agent-computer` `agent-harness` `agent-orchestration` `agentic-ai` |
 
 ---
@@ -32,8 +32,8 @@ State-of-the-art architectures and checkpoints trending on Hugging Face:
 
 | Model Identifier | Primary Task | Community Likes | Direct Link |
 | :--- | :---: | :---: | :---: |
-| **`Qwen/Qwen3.8-27B`** | `image-text-to-text` | ❤️ 10,726 | [Inspect Model →](https://huggingface.co/Qwen/Qwen3.8-27B) |
-| **`unsloth/Qwen3.8-27B-GGUF`** | `text-generation` | ❤️ 1,636 | [Inspect Model →](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF) |
+| **`Qwen/Qwen3.8-27B`** | `image-text-to-text` | ❤️ 10,727 | [Inspect Model →](https://huggingface.co/Qwen/Qwen3.8-27B) |
+| **`unsloth/Qwen3.8-27B-GGUF`** | `text-generation` | ❤️ 1,637 | [Inspect Model →](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF) |
 | **`Qwen/Qwen3.8-2.4T-A95B`** | `text-generation` | ❤️ 1,042 | [Inspect Model →](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B) |
 | **`Lightricks/LTX-2.5`** | `image-to-video` | ❤️ 1,112 | [Inspect Model →](https://huggingface.co/Lightricks/LTX-2.5) |
 | **`MiniMaxAI/MiniMax-Music3`** | `text-to-audio` | ❤️ 906 | [Inspect Model →](https://huggingface.co/MiniMaxAI/MiniMax-Music3) |
