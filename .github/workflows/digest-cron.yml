@@ -1,0 +1,48 @@
+name: AI & Tech Trends Bi-Daily Digest
+
+on:
+  schedule:
+    # Runs every 2 days at 00:00 UTC (07:00 WIB)
+    - cron: '0 0 */2 * *'
+  workflow_dispatch: # Allows manual trigger anytime from GitHub Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run Trends Aggregator
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python fetch_trends.py
+
+      - name: Commit and push updates
+        run: |
+          git config --global user.name "skimatt"
+          git config --global user.email "rahmatzkk10@gmail.com"
+          git add README.md digests/
+          if git diff --staged --quiet; then
+            echo "No changes detected."
+          else
+            git commit -m "chore(digest): automated AI & tech trends update [skip ci]"
+            git push origin main
+          fi
