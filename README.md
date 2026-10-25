@@ -11,19 +11,19 @@
 
 ---
 
-## 📅 Latest Snapshot: `23 October 2026, 03:31 UTC`
+## 📅 Latest Snapshot: `25 October 2026, 03:21 UTC`
 
 ### 🔥 Top Trending Open-Source AI Repositories
 Repositories gaining high momentum across the open-source developer ecosystem:
 
 | Repository | Stars | Language | Key Focus & Topics |
 | :--- | :---: | :---: | :--- |
-| **[nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)**<br>*An AI skill that provides design intelligence for building professional UI/UX across multiple p...* | ⭐ 139,068 | `Python` | `ai-skills` `antigravity` `claude` `claude-code` |
-| **[ruvnet/RuView](https://github.com/ruvnet/RuView)**<br>*π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitorin...* | ⭐ 99,211 | `Rust` | `awesome` `claude` `densepose` `esp32` |
-| **[koala73/worldmonitor](https://github.com/koala73/worldmonitor)**<br>*Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, ...* | ⭐ 89,250 | `TypeScript` | `agent` `ai` `dashboard` `geopolitics` |
-| **[666ghj/MiroFish](https://github.com/666ghj/MiroFish)**<br>*A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物...* | ⭐ 81,330 | `Python` | `agent-memory` `financial-forecasting` `future-prediction` `knowledge-graph` |
-| **[ruvnet/ruflo](https://github.com/ruvnet/ruflo)**<br>*🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous wor...* | ⭐ 78,517 | `TypeScript` | `agentic-ai` `agentic-framework` `agentic-workflow` `agents` |
-| **[Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)**<br>*Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful loc...* | ⭐ 67,462 | `JavaScript` | `agent-computer` `agent-harness` `agent-orchestration` `agentic-ai` |
+| **[nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)**<br>*An AI skill that provides design intelligence for building professional UI/UX across multiple p...* | ⭐ 139,962 | `Python` | `ai-skills` `antigravity` `claude` `claude-code` |
+| **[ruvnet/RuView](https://github.com/ruvnet/RuView)**<br>*π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitorin...* | ⭐ 99,461 | `Rust` | `awesome` `claude` `densepose` `esp32` |
+| **[koala73/worldmonitor](https://github.com/koala73/worldmonitor)**<br>*Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, ...* | ⭐ 89,444 | `TypeScript` | `agent` `ai` `dashboard` `geopolitics` |
+| **[666ghj/MiroFish](https://github.com/666ghj/MiroFish)**<br>*A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物...* | ⭐ 81,726 | `Python` | `agent-memory` `financial-forecasting` `future-prediction` `knowledge-graph` |
+| **[ruvnet/ruflo](https://github.com/ruvnet/ruflo)**<br>*🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous wor...* | ⭐ 79,067 | `TypeScript` | `agentic-ai` `agentic-framework` `agentic-workflow` `agents` |
+| **[Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)**<br>*Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful loc...* | ⭐ 67,523 | `JavaScript` | `agent-computer` `agent-harness` `agent-orchestration` `agentic-ai` |
 
 ---
 
@@ -32,12 +32,12 @@ State-of-the-art architectures and checkpoints trending on Hugging Face:
 
 | Model Identifier | Primary Task | Community Likes | Direct Link |
 | :--- | :---: | :---: | :---: |
-| **`deepseek-ai/DeepSeek-V4.1-Flash-1017`** | `image-text-to-text` | ❤️ 2,383 | [Inspect Model →](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) |
-| **`black-forest-labs/flux-3-image-klein-comfy`** | `image-to-image` | ❤️ 1,313 | [Inspect Model →](https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy) |
-| **`RecursiveSI/flint`** | `text-generation` | ❤️ 559 | [Inspect Model →](https://huggingface.co/RecursiveSI/flint) |
-| **`OpenMOSS-Team/MOSS-Image-SFT`** | `text-to-image` | ❤️ 593 | [Inspect Model →](https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT) |
-| **`OpenMOSS-Team/MOSS-Image-Base`** | `text-to-image` | ❤️ 492 | [Inspect Model →](https://huggingface.co/OpenMOSS-Team/MOSS-Image-Base) |
-| **`Lightricks/LTX-2.5`** | `image-to-video` | ❤️ 8,912 | [Inspect Model →](https://huggingface.co/Lightricks/LTX-2.5) |
+| **`deepseek-ai/DeepSeek-V4.1-Flash-1017`** | `image-text-to-text` | ❤️ 2,806 | [Inspect Model →](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) |
+| **`RecursiveSI/flint`** | `text-generation` | ❤️ 782 | [Inspect Model →](https://huggingface.co/RecursiveSI/flint) |
+| **`black-forest-labs/flux-3-image-klein-comfy`** | `image-to-image` | ❤️ 1,509 | [Inspect Model →](https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy) |
+| **`XHToken/Spark-X2.6-4B`** | `text-generation` | ❤️ 456 | [Inspect Model →](https://huggingface.co/XHToken/Spark-X2.6-4B) |
+| **`Lightricks/LTX-2.5`** | `image-to-video` | ❤️ 9,197 | [Inspect Model →](https://huggingface.co/Lightricks/LTX-2.5) |
+| **`OpenMOSS-Team/MOSS-Image-SFT`** | `text-to-image` | ❤️ 701 | [Inspect Model →](https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT) |
 
 ---
 
