@@ -11,19 +11,19 @@
 
 ---
 
-## 📅 Latest Snapshot: `03 November 2026, 05:29 UTC`
+## 📅 Latest Snapshot: `05 November 2026, 05:18 UTC`
 
 ### 🔥 Top Trending Open-Source AI Repositories
 Repositories gaining high momentum across the open-source developer ecosystem:
 
 | Repository | Stars | Language | Key Focus & Topics |
 | :--- | :---: | :---: | :--- |
-| **[nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)**<br>*An AI skill that provides design intelligence for building professional UI/UX across multiple p...* | ⭐ 144,397 | `Python` | `ai-skills` `antigravity` `claude` `claude-code` |
-| **[ruvnet/RuView](https://github.com/ruvnet/RuView)**<br>*π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitorin...* | ⭐ 102,137 | `Rust` | `awesome` `claude` `densepose` `esp32` |
-| **[koala73/worldmonitor](https://github.com/koala73/worldmonitor)**<br>*Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, ...* | ⭐ 90,036 | `TypeScript` | `agent` `ai` `dashboard` `geopolitics` |
-| **[ruvnet/ruflo](https://github.com/ruvnet/ruflo)**<br>*🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous wor...* | ⭐ 80,683 | `TypeScript` | `agentic-ai` `agentic-framework` `agentic-workflow` `agents` |
-| **[Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)**<br>*Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful loc...* | ⭐ 67,878 | `JavaScript` | `agent-computer` `agent-harness` `agent-orchestration` `agentic-ai` |
-| **[bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)**<br>*A spy satellite simulator in your browser, except the data is real. Live open source spatial in...* | ⭐ 62,365 | `JavaScript` | `3d-globe` `cesium` `flight-tracking` `geospatial` |
+| **[nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)**<br>*An AI skill that provides design intelligence for building professional UI/UX across multiple p...* | ⭐ 145,326 | `Python` | `ai-skills` `antigravity` `claude` `claude-code` |
+| **[ruvnet/RuView](https://github.com/ruvnet/RuView)**<br>*π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitorin...* | ⭐ 102,447 | `Rust` | `awesome` `claude` `densepose` `esp32` |
+| **[koala73/worldmonitor](https://github.com/koala73/worldmonitor)**<br>*Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, ...* | ⭐ 90,167 | `TypeScript` | `agent` `ai` `dashboard` `geopolitics` |
+| **[ruvnet/ruflo](https://github.com/ruvnet/ruflo)**<br>*🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous wor...* | ⭐ 80,904 | `TypeScript` | `agentic-ai` `agentic-framework` `agentic-workflow` `agents` |
+| **[Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)**<br>*Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful loc...* | ⭐ 67,954 | `JavaScript` | `agent-computer` `agent-harness` `agent-orchestration` `agentic-ai` |
+| **[bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)**<br>*A spy satellite simulator in your browser, except the data is real. Live open source spatial in...* | ⭐ 62,831 | `JavaScript` | `3d-globe` `cesium` `flight-tracking` `geospatial` |
 
 ---
 
@@ -32,12 +32,12 @@ State-of-the-art architectures and checkpoints trending on Hugging Face:
 
 | Model Identifier | Primary Task | Community Likes | Direct Link |
 | :--- | :---: | :---: | :---: |
-| **`LiquidAI/LFM3-1.7B`** | `text-generation` | ❤️ 1,216 | [Inspect Model →](https://huggingface.co/LiquidAI/LFM3-1.7B) |
-| **`deepseek-ai/DeepSeek-V4.1-Flash-1017`** | `image-text-to-text` | ❤️ 4,738 | [Inspect Model →](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) |
-| **`nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B`** | `automatic-speech-recognition` | ❤️ 693 | [Inspect Model →](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B) |
-| **`mistralai/Mistral-Large-4-1T-A52B`** | `image-text-to-text` | ❤️ 1,507 | [Inspect Model →](https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B) |
-| **`baidu/Unlimited-OCR-2`** | `image-text-to-text` | ❤️ 566 | [Inspect Model →](https://huggingface.co/baidu/Unlimited-OCR-2) |
-| **`speridlabs/idol`** | `image-to-3d` | ❤️ 433 | [Inspect Model →](https://huggingface.co/speridlabs/idol) |
+| **`nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B`** | `automatic-speech-recognition` | ❤️ 3,001 | [Inspect Model →](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B) |
+| **`deepseek-ai/DeepSeek-V4.1-Flash-1017`** | `image-text-to-text` | ❤️ 5,292 | [Inspect Model →](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) |
+| **`speridlabs/idol`** | `image-to-3d` | ❤️ 637 | [Inspect Model →](https://huggingface.co/speridlabs/idol) |
+| **`moonshotai/Kimi-K3.1-Pro`** | `image-text-to-text` | ❤️ 589 | [Inspect Model →](https://huggingface.co/moonshotai/Kimi-K3.1-Pro) |
+| **`LiquidAI/LFM3-1.7B`** | `text-generation` | ❤️ 1,494 | [Inspect Model →](https://huggingface.co/LiquidAI/LFM3-1.7B) |
+| **`mistralai/Mistral-Large-4-1T-A52B`** | `image-text-to-text` | ❤️ 1,592 | [Inspect Model →](https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B) |
 
 ---
 
